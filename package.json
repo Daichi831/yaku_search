@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "If you specify the mahjong number, the mahjong hand will be displayed.",
   "main": "index.js",
+  "bin": {
+    "yaku_search": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
