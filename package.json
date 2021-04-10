@@ -1,0 +1,25 @@
+{
+  "name": "yaku_search",
+  "version": "1.0.0",
+  "description": "If you specify the mahjong number, the mahjong hand will be displayed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daichi831/yaku_search.git"
+  },
+  "keywords": [
+    "mahjong"
+  ],
+  "author": "Daichi831",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Daichi831/yaku_search/issues"
+  },
+  "homepage": "https://github.com/Daichi831/yaku_search#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
